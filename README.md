@@ -9,6 +9,7 @@ database that deals with analysis of YouTube Data on Trending Videos is introduc
 
 ## Data Architecture
 
+![Data Architecture](https://user-images.githubusercontent.com/114179722/236095375-90d3f4bc-7743-48a3-9f2f-d9ec677d7a75.jpg)
 
 
 
